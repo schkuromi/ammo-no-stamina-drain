@@ -1,7 +1,7 @@
 {
     "name": "ammo-no-stamina-drain",
-    "version": "1.0.0",
-    "sptVersion": "~3.10",
+    "version": "1.0.1",
+    "sptVersion": "~3.11",
     "loadBefore": [],
     "loadAfter": [],
     "incompatibilities": [],

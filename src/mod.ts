@@ -30,6 +30,8 @@ class Mod implements IPostDBLoadMod
                 ammo._props.StaminaBurnPerDamage = 0;
             }
         }
+        
+        console.log("[SCHKRM] Ammo No Stamina Drain loaded.")
     }
 }
 
